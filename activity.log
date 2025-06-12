@@ -104,3 +104,5 @@
 2025-11-24 17:43:00 | DEBUG | repo=pv243-a4m36jee-2016-infinispan-seminar | action=commit
 2025-05-05 11:03:00 | DEBUG | repo=pv243-a4m36jee-2016-infinispan-seminar | action=commit
 2025-03-09 20:31:00 | WARN | repo=pv243-a4m36jee-2016-infinispan-seminar | action=commit
+2025-08-19 07:34:00 | WARN | repo=pv243-a4m36jee-2016-infinispan-seminar | action=pull
+2025-06-12 08:10:00 | DEBUG | repo=pv243-a4m36jee-2016-infinispan-seminar | action=commit
